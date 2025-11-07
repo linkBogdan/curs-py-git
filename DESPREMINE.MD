@@ -3,7 +3,7 @@
 Salut! Numele meu este [ ].
 Sunt elev la [ ].
 Invat programare pentru ca vreau sa [ ].
----
+
 ## Ce imi place
 - Programarea
 - Muzica
