@@ -24,8 +24,3 @@ Pentru elevii de liceu fără experiență anterioară în programare, dar curio
 
 ## Despre proiect
 Inițiativă voluntară, educațională și non-profit, destinată să promoveze învățarea practică și colaborativă.
-
----
-
-*Contribuțiile sunt binevenite!*  
-Dacă vrei să îmbunătățești exemplele sau materialele, deschide un Pull Request.
